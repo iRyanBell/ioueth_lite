@@ -1,6 +1,7 @@
 # IOUeth (lite)
 
 A Stateless IOU Smart Contract for Ethereum (Vyper)
+
 See stateful version at https://github.com/iRyanBell/ioueth
 
 **Contract Address:**
